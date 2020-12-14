@@ -1,12 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".svnignore" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="alert" type="PLAIN_TEXT" />
       <mapping ext="a" type="PLAIN_TEXT" />
-      <removed_mapping ext="a" approved="true" type="UNKNOWN" />
       <removed_mapping ext="a" approved="true" type="UNKNOWN" />
     </extensionMap>
   </component>
