@@ -14,5 +14,14 @@
         <fileTransfer accessType="SFTP" host="172.23.164.224" port="22" sshConfigId="e9afd3a0-9683-474a-8a4d-4279aeb5bb4d" sshConfig="matt@172.23.164.224:22 password" />
       </webServer>
     </option>
+    <groups>
+      <group>
+        <name>Remote Development</name>
+        <mayChangeLevel>false</mayChangeLevel>
+        <servers>
+          <name value="Remote Host (4f465dcc-1d5d-4416-a799-b0b9527bffc6)" />
+        </servers>
+      </group>
+    </groups>
   </component>
 </application>
