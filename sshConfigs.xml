@@ -8,6 +8,9 @@
         <option name="customName" value="WSL (a62661d4-d72e-493f-aa31-e062a5a3b390)" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.23.164.224" id="e9afd3a0-9683-474a-8a4d-4279aeb5bb4d" port="22" nameFormat="DESCRIPTIVE" username="matt" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.23.164.224" id="6fb4627c-c3d6-4476-b96d-ca3f25b086c7" port="22" customName="Phoenix Dev" nameFormat="CUSTOM" username="matt">
+        <option name="customName" value="Phoenix Dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>
