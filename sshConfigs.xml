@@ -11,6 +11,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.23.164.224" id="6fb4627c-c3d6-4476-b96d-ca3f25b086c7" port="22" customName="Phoenix Dev" nameFormat="CUSTOM" username="matt">
         <option name="customName" value="Phoenix Dev" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.182.30.231" id="cd90a1f3-d197-4b67-bdbf-1525600456eb" port="22" customName="MATT DEV" nameFormat="CUSTOM" username="matt">
+        <option name="customName" value="MATT DEV" />
+      </sshConfig>
     </configs>
   </component>
 </application>

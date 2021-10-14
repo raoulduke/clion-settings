@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ae9b928a-d67d-4145-a0e1-c2da862bbe4d" name="Phoenix Dev" url="http://172.23.164.224">
-        <fileTransfer rootFolder="/home/matt/dev" accessType="SFTP" host="172.23.164.224" port="22" sshConfigId="6fb4627c-c3d6-4476-b96d-ca3f25b086c7" sshConfig="Phoenix Dev">
+      <webServer id="ae9b928a-d67d-4145-a0e1-c2da862bbe4d" name="Phoenix Dev" url="https://mattdev.corp.moneris.com:1111">
+        <fileTransfer rootFolder="/home/matt/dev" accessType="SFTP" host="10.182.30.231" port="22" sshConfigId="cd90a1f3-d197-4b67-bdbf-1525600456eb" sshConfig="MATT DEV">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
