@@ -1,0 +1,34 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ae9b928a-d67d-4145-a0e1-c2da862bbe4d" name="Matt Dev" url="https://mattdev.corp.moneris.com:1111">
+        <fileTransfer rootFolder="/home/matt/dev" accessType="SFTP" host="10.182.30.231" port="22" sshConfigId="cd90a1f3-d197-4b67-bdbf-1525600456eb" sshConfig="MATT DEV">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a62661d4-d72e-493f-aa31-e062a5a3b390" name="WSL (a62661d4-d72e-493f-aa31-e062a5a3b390)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="b8a274fb-03e2-4e49-8d3e-59cbc8bab2c6" sshConfig="WSL (a62661d4-d72e-493f-aa31-e062a5a3b390)" />
+      </webServer>
+      <webServer id="78916443-1388-47f5-b31d-e89860f2aae9" name="WSL (78916443-1388-47f5-b31d-e89860f2aae9)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="b8a274fb-03e2-4e49-8d3e-59cbc8bab2c6" sshConfig="WSL (a62661d4-d72e-493f-aa31-e062a5a3b390)" />
+      </webServer>
+      <webServer id="2619641f-4ae4-4d4d-a484-516ccecff694" name="WSL (2619641f-4ae4-4d4d-a484-516ccecff694)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="b8a274fb-03e2-4e49-8d3e-59cbc8bab2c6" sshConfig="WSL (a62661d4-d72e-493f-aa31-e062a5a3b390)" />
+      </webServer>
+      <webServer id="4f465dcc-1d5d-4416-a799-b0b9527bffc6" name="Remote Host (4f465dcc-1d5d-4416-a799-b0b9527bffc6)" url="http:///">
+        <fileTransfer accessType="SFTP" host="172.23.164.224" port="22" sshConfigId="e9afd3a0-9683-474a-8a4d-4279aeb5bb4d" sshConfig="matt@172.23.164.224:22 password" />
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>Remote Development</name>
+        <mayChangeLevel>false</mayChangeLevel>
+        <servers>
+          <name value="Remote Host (4f465dcc-1d5d-4416-a799-b0b9527bffc6)" />
+        </servers>
+      </group>
+    </groups>
+  </component>
+</application>
