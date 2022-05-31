@@ -1,8 +1,8 @@
 <application>
-  <component name="CPPToolchains" version="6">
+  <component name="CPPToolchains" version="7">
     <toolchains detectedVersion="5">
-      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\matthew.keaveney\Ubuntu\ubuntu1804.exe" customCMakePath="\usr\bin\cmake" hostId="2619641f-4ae4-4d4d-a484-516ccecff694" sshConfigName="WSL (a62661d4-d72e-493f-aa31-e062a5a3b390)" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
-      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="\usr\local\bin\cmake" hostId="4f465dcc-1d5d-4416-a799-b0b9527bffc6" sshConfigName="matt@172.23.164.224:22 password" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="Ubuntu" customCMakePath="\usr\bin\cmake" customCCompilerPath="/usr/bin/gcc" customCXXCompilerPath="/usr/bin/g++" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="4f465dcc-1d5d-4416-a799-b0b9527bffc6" sshConfigName="MATT DEV" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
