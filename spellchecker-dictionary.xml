@@ -4,8 +4,12 @@
       <w>batchnum</w>
       <w>corestat</w>
       <w>cutover</w>
+      <w>deviceid</w>
       <w>keaveney</w>
       <w>kmac</w>
+      <w>merfeatures</w>
+      <w>merinfo</w>
+      <w>merlimit</w>
       <w>mins</w>
       <w>moneris</w>
       <w>nolock</w>
