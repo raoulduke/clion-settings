@@ -1,8 +1,8 @@
 <application>
-  <component name="CPPToolchains" version="7">
+  <component name="CPPToolchains" version="9">
     <toolchains detectedVersion="5">
       <toolchain name="WSL" toolSetKind="WSL" toolSetPath="Ubuntu" customCMakePath="\usr\bin\cmake" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
-      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="\usr\local\bin\cmake" hostId="4f465dcc-1d5d-4416-a799-b0b9527bffc6" sshConfigName="matt@172.23.164.224:22 password" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="Remote Host" toolSetKind="SSH" customCMakePath="\usr\local\bin\cmake" hostId="4f465dcc-1d5d-4416-a799-b0b9527bffc6" sshConfigName="matt@172.23.164.224:22 password" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
