@@ -4,6 +4,7 @@
       <w>batchnum</w>
       <w>corestat</w>
       <w>cutover</w>
+      <w>dailyoctlimit</w>
       <w>deviceid</w>
       <w>devlist</w>
       <w>ingenico</w>
@@ -14,8 +15,10 @@
       <w>merlimit</w>
       <w>mins</w>
       <w>moneris</w>
+      <w>mtmid</w>
       <w>nolock</w>
       <w>origcredit</w>
+      <w>paramter</w>
       <w>pgroup</w>
       <w>pinpad</w>
       <w>preauth</w>
