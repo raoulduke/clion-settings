@@ -21,6 +21,36 @@
           "isSplit": true
         },
         {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "CMake",
+          "order": 5,
+          "anchor": "BOTTOM"
+        },
+        {
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
@@ -55,36 +85,6 @@
           "id": "Meson",
           "order": 5,
           "anchor": "RIGHT"
-        },
-        {
-          "id": "Version Control",
-          "order": 0,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Problems",
-          "order": 1,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Problems View",
-          "order": 2,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Terminal",
-          "order": 3,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Services",
-          "order": 4,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "CMake",
-          "order": 5,
-          "anchor": "BOTTOM"
         }
       ]
     }
