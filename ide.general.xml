@@ -8,4 +8,18 @@
     <entry key="moved.to.new.ui" value="true" />
     <entry key="ide.experimental.ui" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="ClangTidyStatusBarWidget" value="false" />
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="FlowJSInfo" value="false" />
+        <entry key="GridAggregator" value="false" />
+        <entry key="GridPosition" value="false" />
+        <entry key="IncomingChanges" value="false" />
+        <entry key="LanguageServiceStatusBarWidget" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
