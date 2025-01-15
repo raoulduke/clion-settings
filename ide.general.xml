@@ -20,6 +20,7 @@
         <entry key="IncomingChanges" value="false" />
         <entry key="LanguageServiceStatusBarWidget" value="false" />
         <entry key="TypeScriptInfo" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>
