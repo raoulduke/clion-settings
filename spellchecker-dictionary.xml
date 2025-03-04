@@ -3,6 +3,7 @@
     <words>
       <w>batchnum</w>
       <w>corestat</w>
+      <w>curlopt</w>
       <w>cutover</w>
       <w>dailyoctlimit</w>
       <w>deviceid</w>
@@ -23,6 +24,7 @@
       <w>pinpad</w>
       <w>preauth</w>
       <w>seqnum</w>
+      <w>setopt</w>
       <w>siedlecki</w>
       <w>spdh</w>
       <w>visainst</w>

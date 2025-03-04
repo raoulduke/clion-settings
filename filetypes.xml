@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
-      <mapping ext="php" type="Native" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping pattern=".svnignore" type="PLAIN_TEXT" />
       <mapping ext="a" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="alert" type="PLAIN_TEXT" />
       <removed_mapping ext="a" approved="true" type="UNKNOWN" />
+      <removed_mapping ext="php" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
