@@ -21,6 +21,7 @@
       <w>moneris</w>
       <w>mtmid</w>
       <w>nolock</w>
+      <w>onlinerefund</w>
       <w>origcredit</w>
       <w>paramter</w>
       <w>pgroup</w>
@@ -30,6 +31,7 @@
       <w>setopt</w>
       <w>siedlecki</w>
       <w>spdh</w>
+      <w>txnoctlimit</w>
       <w>visainst</w>
     </words>
   </component>
