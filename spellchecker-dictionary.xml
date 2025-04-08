@@ -3,6 +3,7 @@
     <words>
       <w>allocdate</w>
       <w>batchnum</w>
+      <w>cardtype</w>
       <w>corestat</w>
       <w>curlopt</w>
       <w>cutover</w>
