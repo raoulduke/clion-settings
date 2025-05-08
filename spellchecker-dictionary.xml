@@ -6,6 +6,8 @@
       <w>blimits</w>
       <w>bvirt</w>
       <w>cardtype</w>
+      <w>corenodeid</w>
+      <w>corepath</w>
       <w>corestat</w>
       <w>ctype</w>
       <w>curlopt</w>
@@ -19,6 +21,7 @@
       <w>devtype</w>
       <w>drvexit</w>
       <w>ecomm</w>
+      <w>fpath</w>
       <w>ingenico</w>
       <w>interac</w>
       <w>keaveney</w>
