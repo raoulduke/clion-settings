@@ -2,37 +2,58 @@
   <component name="CachedDictionaryState">
     <words>
       <w>allocdate</w>
+      <w>alwusage</w>
+      <w>authrfnd</w>
       <w>batchnum</w>
       <w>blimits</w>
       <w>bvirt</w>
       <w>cardtype</w>
+      <w>catind</w>
+      <w>clsbatch</w>
+      <w>confcode</w>
       <w>corenodeid</w>
       <w>corepath</w>
       <w>corestat</w>
+      <w>corrlimit</w>
+      <w>creditapp</w>
+      <w>crusage</w>
       <w>ctype</w>
       <w>curlopt</w>
       <w>cutover</w>
       <w>dailyoctlimit</w>
+      <w>dcind</w>
       <w>deallocation</w>
       <w>devcs</w>
       <w>deviceid</w>
       <w>devlist</w>
+      <w>devserial</w>
       <w>devstype</w>
       <w>devtype</w>
+      <w>dicvx</w>
+      <w>drusage</w>
       <w>drvexit</w>
       <w>ecomm</w>
+      <w>emvflag</w>
+      <w>emvtype</w>
       <w>fpath</w>
+      <w>fullcomp</w>
       <w>ingenico</w>
       <w>interac</w>
       <w>keaveney</w>
       <w>kmac</w>
+      <w>ldtype</w>
       <w>manallow</w>
+      <w>maxrefundamt</w>
+      <w>maxtxnamt</w>
+      <w>mcvltype</w>
       <w>mdbaname</w>
       <w>merfeatures</w>
       <w>merinfo</w>
       <w>merlimit</w>
       <w>mins</w>
       <w>mmos</w>
+      <w>mmosind</w>
+      <w>mmpg</w>
       <w>mname</w>
       <w>moneris</w>
       <w>mtmid</w>
@@ -41,18 +62,35 @@
       <w>orefund</w>
       <w>origcredit</w>
       <w>paramter</w>
+      <w>paycorr</w>
+      <w>pgid</w>
       <w>pgroup</w>
       <w>pinpad</w>
       <w>preauth</w>
+      <w>procind</w>
+      <w>proctype</w>
+      <w>ptdf</w>
+      <w>purchlimit</w>
+      <w>purcorr</w>
+      <w>refndcorr</w>
+      <w>reqd</w>
+      <w>rfndlimit</w>
+      <w>sdata</w>
+      <w>sdbfld</w>
       <w>seqnum</w>
       <w>setopt</w>
+      <w>sfld</w>
       <w>siedlecki</w>
       <w>spdh</w>
+      <w>sregex</w>
       <w>termgroup</w>
+      <w>termgrp</w>
+      <w>termowr</w>
       <w>txnoctlimit</w>
       <w>unattend</w>
       <w>vinst</w>
       <w>visainst</w>
+      <w>vrfbyvisa</w>
       <w>vtid</w>
     </words>
   </component>
